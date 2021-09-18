@@ -1,0 +1,4 @@
+node_modules
+package-lock.json
+resources/static/assets/tmp
+resources/static/assets/uploads
